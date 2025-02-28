@@ -1,0 +1,9 @@
+{
+  "__resolveType": "site/apps/deco/linx.ts",
+  "account": "magazinepagmenos",
+  "integrationToken": {
+    "__resolveType": "website/loaders/secret.ts",
+    "encrypted": "7f838a4df2d42376dbd6950d26afc86f8b4c5226f6f9d305cf92658056864dcecc10f6a9e3831731dc79f5e62e837102"
+  },
+  "cdn": "d6xnivf992pu8"
+}
